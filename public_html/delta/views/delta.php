@@ -15,6 +15,7 @@
    <li><?php echo $c ?></li>
    </ul>
    
+   <p>delta wynosi: <?php $delta?> </p>
    
    <?php
    if($delta>0){

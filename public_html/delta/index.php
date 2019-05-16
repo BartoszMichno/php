@@ -33,16 +33,14 @@ if(isset($_GET['a']) and isset($_GET['b']) and isset($_GET['c'])){
    if($delta>0){
       $x1= (-$b - sqrt($delta))/2*$a;
       $x2= (-$b + sqrt($delta))/2*$a;
-
-      include('views/delta.php');
    }
    elseif($delta==0){
       $x= -$b / 2 * $a;
-      include('views/delta.php');
    }
    else{
-      include('views/delta.php');
+      
    }
+   include('views/delta.php');
 }
 else{
    include('views/error.php');
