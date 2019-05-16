@@ -1,4 +1,20 @@
 <?php
+
+
+// function delta($a,$b,$c){
+//    $delta = $b * $b - 4 * $a * $c;
+//    return $delta;
+// }
+
+// class delta2{
+//    delta2($a,$b,$c){
+//       function _construct= $b * $b - 4 * $a * $c;
+//       return $delta;
+//    }
+// }
+
+
+
 // Włączone pełne raportowanie błędów
 error_reporting(E_ERROR | E_WARNING | E_PARSE | E_NOTICE);
 
