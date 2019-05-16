@@ -7,13 +7,13 @@
    <title>Document</title>
 </head>
 <body>
-   <h1>obliczanie delty</h1>
+   <!-- <h1>obliczanie delty</h1>
    <p>parametry równania:</p>
    <ul>
    <li><?php echo $a ?></li>
    <li><?php echo $b ?></li>
    <li><?php echo $c ?></li>
-   </ul>
+   </ul> -->
    <p>wyniki:</p>
    <ul>
       <li><?php echo $x1 ?></li>
