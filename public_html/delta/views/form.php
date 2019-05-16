@@ -15,6 +15,7 @@
    <input type="text" name="b">
    <p>Podaj c:</p>
    <input type="text" name="c">
+   <input type="submit" value="wyślij">
    </form>
 </body>
 </html>
